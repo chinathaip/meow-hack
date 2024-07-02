@@ -5,4 +5,5 @@ bs4
 ollama
 python-dotenv
 azure-identity
-azure-search-documents==11.4b
+azure-search-documents==11.4b9
+streamlit
